@@ -1,0 +1,1 @@
+success! news is created!
